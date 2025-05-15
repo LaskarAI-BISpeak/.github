@@ -1,7 +1,7 @@
 # [LAI25-SM055] Laskar AI BISpeak Project
 ## Designing an Image Classification Sign Language BISINDO
 
-A part of Laskar AI Cohort 2025
+Part of Laskar AI Cohort 2025
 
 ---
 
