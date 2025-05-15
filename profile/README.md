@@ -6,12 +6,12 @@
 ---
 
 ## 🧑‍🤝‍🧑 Our Team
-| ID           | Nama                  | Email                          | GitHub                         |
-|--------------|-----------------------|--------------------------------|--------------------------------|
-| A548YBM523   | Zulfahmi M. Ardianto  | A548YBM523@devacademy.id       | [7z1x](https://github.com/7z1x) |
-| A013XBM217   | Idha Kurniawati       | A013XBM217@devacademy.id       | [idhak](https://github.com/idhak) |
-| A203XBM381   | Nurfadilah            | A203XBM381@devacademy.id       | [smithdilah](https://github.com/smithdilah) |
-| A228XBM423   | Ria Kristi            | A228XBM423@devacademy.id       | [riakrst](https://github.com/riakrst) |
+| ID           | Nama                  | Universitas                                  | Email                          | GitHub                                     |
+|--------------|-----------------------|----------------------------------------------|--------------------------------|---------------------------------------------|
+| A548YBM523   | Zulfahmi M. Ardianto  | UIN Sunan Kalijaga                           | A548YBM523@devacademy.id       | [7z1x](https://github.com/7z1x)             |
+| A013XBM217   | Idha Kurniawati       | Universitas Terbuka                          | A013XBM217@devacademy.id       | [idhak](https://github.com/idhak)           |
+| A203XBM381   | Nurfadilah            | Universitas Duta Bangsa Surakarta            | A203XBM381@devacademy.id       | [smithdilah](https://github.com/smithdilah) |
+| A228XBM423   | Ria Kristi            | Universitas Jenderal Achmad Yani Yogyakarta  | A228XBM423@devacademy.id       | [riakrst](https://github.com/riakrst)       |
 
 ---
 
