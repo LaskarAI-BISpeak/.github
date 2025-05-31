@@ -8,7 +8,7 @@ Selamat datang di repositori Proyek BiSpeak! Kami adalah tim Laskar AI SM055 yan
 
 ## 👨‍👩‍👧‍👦 Tim Kami (Our Team)
 
-Kami adalah kelompok mahasiswa yang berkolaborasi dalam proyek ini:
+Kami adalah kelompok kami:
 
 | ID         | Nama                | Universitas                          | Email                       | GitHub                                   |
 | :--------- | :------------------ | :----------------------------------- | :-------------------------- | :--------------------------------------- |
