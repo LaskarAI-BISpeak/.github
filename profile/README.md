@@ -63,14 +63,22 @@ Detail mengenai arsitektur model dan dataset yang kami gunakan akan dijabarkan d
 LaskarAI-BISpeak/
 │
 ├── BISINDO-Image-Classification-Model/
-│   └── BiSpeak Model CNN MobileNetv2
-│   └── EfficientNet.ipynb
-│   └── README.md
-│   └── model (masih melakukan pemodelan saat ini)
+│   └── app.py
+│   └── collect_images.py
+│   └── create_dataset_1_hand.py
+│   └── create_dataset_2_hand.py
+|   └── data_1_tangan.pickle
+|   └── data_2_tangan.pickle
+|   └── inference.py
+|   └── model_1_hand.p
+|   └── model_2_hand.p
+|   └── packages.txt
+|   └── requirements.txt
+|   └── train_classifier.py
 │
 ├── dataset/
-│   └── bispeak_augmented_combined_final.zip
-│   └── README.md
+│   └── dataset_1_tangan
+│   └── dataset_2_tangan
 │
 └── README.md
 ```
