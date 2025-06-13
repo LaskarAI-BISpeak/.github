@@ -69,6 +69,12 @@ LaskarAI-BISpeak/
 │   ├── requirements.txt
 │   └── train_classifier.py        # Skrip pelatihan model
 │
+├── dataset/
+│   ├── dataset_1_tangan/
+│   ├── dataset_2_tangan/
+│   ├── data_1_tangan.pickle
+│   └── data_2_tangan.pickle
+│
 └── README.md
 ```
 
